@@ -1,0 +1,9 @@
+Machine-learning-with-Python/
+│── data/                 # For raw and processed datasets
+│   ├── House_Pricing.csv
+│   ├── kc_house_data.csv.zip
+│── notebooks/            # Jupyter Notebooks
+│   ├── Linear Regression.ipynb
+│── scripts/              # Python scripts for modeling/training
+│── README.md             # Project documentation
+│── .gitignore            # Files to ignore in version control
