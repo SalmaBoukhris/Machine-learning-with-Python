@@ -6,8 +6,6 @@ This notebook explores **Simple and Multiple Linear Regression** using different
 - **Scikit-Learn**
 - **SciPy**
 - **Gradient Descent**
-- **Manual Matrix Computations**
-
 Each section is structured to help understand the fundamentals of regression analysis, model evaluation, and implementation differences.
 
 ---
