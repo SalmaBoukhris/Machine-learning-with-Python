@@ -45,11 +45,9 @@ Each section is structured to help understand the fundamentals of regression ana
 
 ### 🔹 2. Gradient Descent <a id="gradient-descent"></a>
 - Implements **batch gradient descent** to optimize the cost function.
-- Demonstrates convergence behavior with different learning rates.
 
 ### 🔹 3. Manual Method <a id="manual-method"></a>
 - Computes **theta parameters** using the **normal equation**.
-- Uses **NumPy’s matrix operations** to solve for optimal values.
 
 ### 🔹 4. SciPy Implementation <a id="scipy-implementation"></a>
 - Uses `stats.linregress()` from SciPy.
